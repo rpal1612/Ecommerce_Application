@@ -153,3 +153,7 @@ This is the backend of an e-commerce application built using Node.js, Express, a
 - `bcryptjs`: Library for hashing passwords
 - `jsonwebtoken`: Library for generating JWT tokens
 - `body-parser`: Middleware for parsing request bodies
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
